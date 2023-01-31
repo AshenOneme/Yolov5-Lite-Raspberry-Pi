@@ -1,8 +1,7 @@
 # Yolov5-Lite-Raspberry-Pi
 基于树莓派的Yolov5-Lite部署
-<div align="center"> 
-<!-- visitor statistics logo 访客数统计徽标 -->
-<a href="https://convertmodel.com/"><img src="https://img.shields.io/badge/-Torch2ONNX-3776AB?style=style=flat-square&logo=Pytorch&logoColor=white" /></a>
+<div> 
+<a href="https://convertmodel.com/"><img src="https://img.shields.io/badge/-Torch to ONNX-ff2d51?style=style=flat-square&logo=Pytorch&logoColor=white" /></a>
 </div>
 
 <div align=center>
